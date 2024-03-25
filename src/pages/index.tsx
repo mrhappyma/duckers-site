@@ -35,7 +35,7 @@ export default function Home() {
         </p>
         <div className="mt-16 flex flex-row items-center justify-center">
           <a
-            href="https://discord.com/api/oauth2/authorize?client_id=906651557829967902&scope=applications.commands"
+            href="https://discord.com/api/oauth2/authorize?client_id=906651557829967902"
             target="_blank"
             rel="noreferrer"
             className="bg-duckYellow m-1 rounded-md p-5 text-white transition-all hover:mx-0 hover:px-7"
